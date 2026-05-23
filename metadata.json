@@ -1,0 +1,6 @@
+{
+  "name": "Verificador de Certificados",
+  "description": "Aplicación de verificación de autenticidad de certificados e informes de Equifax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

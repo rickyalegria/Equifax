@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /MediaBox [0 0 595.28 841.89] /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 450 >>
+stream
+BT
+/F2 22 Tf
+50 780 Td
+(EQUIFAX - VERIFICACION DE CERTIFICADO) Tj
+0 -40 Td
+/F1 12 Tf
+(Este documento es un comprobante oficial emitido por el sistema automatizado) Tj
+0 -15 Td
+(de informes interactivos y certificacion de autenticidad de Equifax.) Tj
+0 -30 Td
+/F2 14 Tf
+(DETALLES DEL EXPEDIENTE REGISTRADO:) Tj
+0 -20 Td
+/F1 11 Tf
+(  * Numero de Certificado: 3003r2578-310g-6jrv-0jk3-388d34b320j6) Tj
+0 -15 Td
+(  * Region de Validez: Chile) Tj
+0 -15 Td
+(  * Estado: AUTENTICO / VERIFICADO) Tj
+0 -15 Td
+(  * Autoridad de Auditoria: Equifax Inc. - Consola Administrativa) Tj
+0 -30 Td
+/F2 12 Tf
+(CONSEJO DE SEGURIDAD INTERMITENTE:) Tj
+0 -18 Td
+/F1 10 Tf
+(Para validar este informe fisicamente en el futuro, escanee el codigo QR) Tj
+0 -14 Td
+(asociado en la pantalla de verificacion para descargar la copia digital original.) Tj
+0 -50 Td
+(_____________________________________) Tj
+0 -15 Td
+(Firma de Validacion de Seguridad) Tj
+0 -10 Td
+(Equifax Public Registers, Inc.) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000300 00000 n
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+812
+%%EOF
